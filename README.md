@@ -1,2 +1,2 @@
 # Hack110-Drawing-with-Python
-Hack110 Turtle workshop!
+UNC's introdcutory computer science course, COMP110, has a semesterly hackathon for students. As a TA, I designed a workshop where students draw "110" and explore essential concepts like functions and loops.
